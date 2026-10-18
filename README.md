@@ -9,7 +9,7 @@ Specializing in Production RAG Architectures, Autonomous ReAct Agents, and Distr
 
 ---
 
-[Email](mailto:contact@ankurpal.dev) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com) &nbsp;|&nbsp; [GitHub](https://github.com/FresherMen)
+[Email] (palsaab1966@gmail.com) &nbsp;|&nbsp; [GitHub](https://github.com/FresherMen)
 
 </div>
 

@@ -32,18 +32,22 @@ I am an **AI and Full-Stack Engineer** focused on building production-ready **Ge
 
 ---
 
-## 🌟 Featured Flagship Project
+## 🌟 Featured Projects
 
-### [🧠 Advanced-RAG-and-AI-Agents](https://github.com/FresherMen/Advanced-RAG-and-AI-Agents)
-> **A complete, production-grade suite implementing modern RAG architectures across 3 evolutionary tiers.**
+### 1. [⬡ DocMind-Hybrid-RAG](https://github.com/FresherMen/DocMind-Hybrid-RAG)
+> **Production RAG with Hybrid Search, Reciprocal Rank Fusion, Contextual Compression & RAGAS Evaluation**  
+> A senior-level full-stack RAG system deployed with Docker Compose. Combines dense vector similarity with sparse BM25 lexical matching, LLM-powered query expansion, and automated LLM-judged evaluation.  
+> `Python` `FastAPI` `React 18` `ChromaDB` `BM25` `Docker`
 
-| Sub-Project | Key Highlights | Core Stack |
-|---|---|---|
-| **⬡ DocMind v2** | Dense + Sparse (BM25) Hybrid Search, RRF Fusion, Query Expansion, Contextual Compression, RAGAS Metrics | `FastAPI` `React 18` `ChromaDB` `Docker` |
-| **🔬 Autonomous Research Agent** | Multi-iteration ReAct loop, Dynamic Tool Dispatch (`search_docs`, `search_web`, `save_note`), Automated Report Generator | `FastAPI` `React 19` `Groq Llama 3.3` `ChromaDB` |
-| **📈 Financial Analyst RAG** | SEC Form 10-K Intelligence, Strict zero-hallucination factual grounding, passage inspector | `LangChain` `Pinecone` `Streamlit` `MiniLM` |
+### 2. [🔬 Autonomous-AI-Research-Agent](https://github.com/FresherMen/Autonomous-AI-Research-Agent)
+> **Autonomous AI Research Assistant with ReAct Reasoning, Dynamic Tools & React 19 Workspace**  
+> End-to-end research assistant powered by Groq LLaMA 3.3 70B with function calling (`search_docs`, `search_web`, `save_note`) and an automated multi-format report generator (bullet summaries, research briefs, cross-document comparison).  
+> `Python` `FastAPI` `React 19` `Vite` `Groq Llama 3.3` `ChromaDB`
 
-👉 **[View the Complete Showcase Repository &rarr;](https://github.com/FresherMen/Advanced-RAG-and-AI-Agents)**
+### 3. [📈 Financial-Analyst-RAG](https://github.com/FresherMen/Financial-Analyst-RAG)
+> **SEC Form 10-K Financial Intelligence Assistant**  
+> Specialized quantitative & qualitative RAG engine for analyzing corporate annual filings (NVIDIA FY2024 10-K) with zero hallucination (`temp=0`), LangChain, Pinecone, and an interactive Streamlit UI.  
+> `Python` `LangChain` `Pinecone` `Groq Llama 3.3` `Streamlit` `MiniLM`
 
 ---
 

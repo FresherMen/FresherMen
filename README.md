@@ -8,8 +8,7 @@ Specializing in Production RAG Architectures, Autonomous ReAct Agents, and Distr
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=620&lines=Production+Hybrid+RAG+(Dense+%2B+BM25+%2B+RRF);Autonomous+Agentic+Reasoning+%26+Tool+Dispatch;Low-Latency+LLM+Inference+with+Groq+%26+Llama+3.3;FastAPI+Microservices+%2B+React+Web+Architectures)](https://git.io/typing-svg)
 
 ---
-
-[Email] (palsaab1966@gmail.com) &nbsp;|&nbsp; [GitHub](https://github.com/FresherMen)
+[Email](mailto:palsaab1966@gmail.com) | [GitHub](https://github.com/FresherMen)
 
 </div>
 

@@ -9,7 +9,7 @@ Mohali, India &bull; Remote Available
 
 ---
 
-[Email](mailto:palsaab1966@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/ankur-pal-9854191a3) &nbsp;|&nbsp; [GitHub](https://github.com/FresherMen) &nbsp;|&nbsp; [Download Resume (PDF)](./Ankur_Pal_Resume.pdf)
+[Interactive Portfolio Website](https://freshermen.github.io) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/ankur-pal-9854191a3) &nbsp;|&nbsp; [Email](mailto:palsaab1966@gmail.com) &nbsp;|&nbsp; [Download Resume (PDF)](./Ankur_Pal_Resume.pdf)
 
 </div>
 

@@ -9,7 +9,7 @@ Mohali, India &bull; Remote Available
 
 ---
 
-[Interactive Portfolio Website](https://freshermen.github.io) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/ankur-pal-9854191a3) &nbsp;|&nbsp; [Email](mailto:palsaab1966@gmail.com) &nbsp;|&nbsp; [Download Resume (PDF)](./Ankur_Pal_Resume.pdf)
+[Interactive Portfolio Website](https://freshermen.github.io) &nbsp;|&nbsp; [Email](mailto:palsaab1966@gmail.com) &nbsp;|&nbsp; [GitHub Repositories](https://github.com/FresherMen) &nbsp;|&nbsp; [Download Resume (PDF)](./Ankur_Pal_Resume.pdf)
 
 </div>
 
@@ -67,12 +67,6 @@ AI/ML Software Engineer with 4+ years of hands-on experience designing, training
 - **MLOps Benchmarking Framework:** Built a modular benchmarking framework (precision, recall, F1-score, inference speed) with CI/CD hooks for automated model evaluation; adopted across 8 internal projects, cutting evaluation time by 40%.
 - **Vision Language Model (VLM) Pipeline:** Integrated LLaVA and Qwen-VL into an automated review pipeline to filter false positives and false negatives from detection outputs via REST APIs.
 - **Internal QA Automation Platform:** Designed a full-stack Django dashboard deployed on AWS EC2 via Docker, featuring real-time data filtering, annotation review workflows, and role-based access control.
-
-### Enterprise Workflow Automation
-**RFP Processing & Subcontractor Matching System**
-- Architected an automated 9-step RFP ingestion and parsing pipeline using Microsoft Power Automate, Azure Document Intelligence, and Egnyte.
-- Implemented hourly folder polling, automated requirement summarization, deadline date extraction into calendar invites, and database-backed subcontractor matching with human-in-the-loop approval and live bid tracking.
-
 ---
 
 ## Featured Systems & Repositories

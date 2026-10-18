@@ -117,21 +117,7 @@ Automated web scraping pipeline from ESPNcricinfo, data transformation in Pandas
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FresherMen&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FresherMen&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FresherMen&theme=github_dark&hide_border=true" alt="Contribution Streak" width="97%" />
-
-</div>
-
----
-
 <div align="center">
   <sub>Ankur Pal &bull; AI/ML Software Engineer &bull; 2026</sub>
 </div>
+

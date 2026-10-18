@@ -24,20 +24,41 @@ Software engineer focused on architecting and deploying production-grade Generat
 
 ## Featured Systems & Repositories
 
-### [DocMind-Hybrid-RAG](https://github.com/FresherMen/DocMind-Hybrid-RAG)
+### Production RAG & AI Agents
+
+#### [DocMind-Hybrid-RAG](https://github.com/FresherMen/DocMind-Hybrid-RAG)
 **Enterprise Hybrid Search & Evaluation System**  
 A full-stack RAG application deployed with Docker Compose. Integrates dense cosine embeddings (ChromaDB) and sparse lexical matching (BM25) fused via Reciprocal Rank Fusion (RRF). Features LLM-driven query expansion, contextual compression, and automated RAGAS-style evaluation metrics (faithfulness, relevancy, precision).  
 *Stack: Python, FastAPI, React 18, ChromaDB, BM25, Docker Compose*
 
-### [Autonomous-AI-Research-Agent](https://github.com/FresherMen/Autonomous-AI-Research-Agent)
+#### [Autonomous-AI-Research-Agent](https://github.com/FresherMen/Autonomous-AI-Research-Agent)
 **Agentic Multi-Step Research Assistant**  
 An autonomous research agent powered by Groq LLaMA 3.3 70B with native function calling. Autonomously navigates between document vector search, web lookup, and persistent markdown note generation. Includes an automated report synthesizer for executive briefs and comparative studies, paired with a React 19 workspace.  
 *Stack: Python, FastAPI, React 19, Vite, Groq Llama 3.3, ChromaDB*
 
-### [Financial-Analyst-RAG](https://github.com/FresherMen/Financial-Analyst-RAG)
+#### [Financial-Analyst-RAG](https://github.com/FresherMen/Financial-Analyst-RAG)
 **SEC Form 10-K Quantitative Intelligence Assistant**  
 A specialized financial RAG system for analyzing corporate annual filings (NVIDIA FY2024 10-K). Engineered with temperature=0 for deterministic, hallucination-free numerical extraction, LangChain orchestration, Pinecone serverless vector indexing, and an interactive Streamlit UI with source evidence transparency.  
 *Stack: Python, LangChain, Pinecone, Groq Llama 3.3, Streamlit, MiniLM*
+
+---
+
+### Machine Learning & Applied Analytics
+
+#### [driver-drowsiness-detection](https://github.com/FresherMen/driver-drowsiness-detection)
+**Real-Time Computer Vision Driver Fatigue Monitor**  
+Real-time vision pipeline monitoring driver eye state via facial landmark localization and continuous Eye Aspect Ratio (EAR) metric calculation with consecutive-frame threshold alarms.  
+*Stack: Python, OpenCV, NumPy, SciPy, Imutils*
+
+#### [loan-default-prediction](https://github.com/FresherMen/loan-default-prediction)
+**Credit Risk Scoring & Loan Eligibility System**  
+End-to-end supervised classification engine evaluating financial and demographic credit risk factors, packaged with a responsive Flask inference interface.  
+*Stack: Python, Scikit-Learn, Flask, Pandas, Joblib*
+
+#### [t20-cricket-analytics](https://github.com/FresherMen/t20-cricket-analytics)
+**T20 World Cup Sports Analytics & Best 11 Pipeline**  
+Automated web scraping pipeline from ESPNcricinfo, data transformation in Pandas, and star-schema dimensional modeling to evaluate player performance across match phases.  
+*Stack: Python, Pandas, Web Scraping, Star Schema, Power BI*
 
 ---
 
@@ -47,7 +68,7 @@ A specialized financial RAG system for analyzing corporate annual filings (NVIDI
 |---|---|
 | **Generative AI & LLMs** | Llama 3.3, Groq LPU, GPT-4o, LangChain, HuggingFace, Prompt Engineering, Function Calling |
 | **Search & Vector Storage** | ChromaDB, Pinecone Serverless, BM25 Lexical Search, Reciprocal Rank Fusion (RRF), SentenceTransformers |
-| **Backend & Microservices** | Python 3.10+, FastAPI, Pydantic v2, Uvicorn, REST APIs, Streamlit |
+| **Backend & Microservices** | Python 3.10+, FastAPI, Pydantic v2, Flask, Uvicorn, REST APIs, Streamlit |
 | **Frontend Architecture** | React 19, React 18, Vite, JavaScript (ES6+), Modern CSS |
 | **DevOps & Infrastructure** | Docker, Docker Compose, Git, Linux, Virtual Environments |
 

@@ -7,9 +7,17 @@ Mohali, India &bull; Remote Available
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=680&lines=Production+Hybrid+RAG+(ChromaDB+%2B+BM25+%2B+RRF);Autonomous+Agentic+Reasoning+%26+Tool+Dispatch;Computer+Vision+(YOLO,+Facial+Landmarks,+ANPR);Cloud+Deployments+on+AWS+%26+GCP+with+Docker)](https://git.io/typing-svg)
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankur%20Pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-pal-2b2ba9433)
+[![Portfolio](https://img.shields.io/badge/Portfolio-freshermen.github.io-C5A059?style=for-the-badge&logo=googlechrome&logoColor=white)](https://freshermen.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-FresherMen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FresherMen)
+[![Email](https://img.shields.io/badge/Email-palsaab1966%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palsaab1966@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-4A5568?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Ankur_Pal_Resume.pdf)
+
 ---
 
-[Interactive Portfolio Website](https://freshermen.github.io) &nbsp;|&nbsp; [Email](mailto:palsaab1966@gmail.com) &nbsp;|&nbsp; [GitHub Repositories](https://github.com/FresherMen) &nbsp;|&nbsp; [Download Resume (PDF)](./Ankur_Pal_Resume.pdf)
+[Interactive Portfolio](https://freshermen.github.io) &nbsp;|&nbsp; [LinkedIn Profile](https://www.linkedin.com/in/ankur-pal-2b2ba9433) &nbsp;|&nbsp; [Email](mailto:palsaab1966@gmail.com) &nbsp;|&nbsp; [GitHub Repositories](https://github.com/FresherMen) &nbsp;|&nbsp; [Download Resume (PDF)](./Ankur_Pal_Resume.pdf)
 
 </div>
 
@@ -114,6 +122,15 @@ Automated web scraping pipeline from ESPNcricinfo, data transformation in Pandas
 **Punjab Technical University** &mdash; Punjab, India  
 *Bachelor of Technology (B.Tech) &ndash; Computer Engineering* &bull; Jan 2019 &ndash; May 2023  
 - CGPA: 7.8 / 10
+
+---
+
+## Connect & Collaborate
+
+- **LinkedIn:** [linkedin.com/in/ankur-pal-2b2ba9433](https://www.linkedin.com/in/ankur-pal-2b2ba9433)
+- **Portfolio:** [freshermen.github.io](https://freshermen.github.io)
+- **Email:** [palsaab1966@gmail.com](mailto:palsaab1966@gmail.com)
+- **GitHub:** [@FresherMen](https://github.com/FresherMen)
 
 ---
 
